@@ -1,2 +1,2 @@
-# Tweet---erik-Politikas-E-le-mesi-
+# Tweet - İçerik Politikası Eşleşmesi 
 Metin Tabanlı Veri Setleri ile Yapay Zekâ Modelleri Geliştirme
